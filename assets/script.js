@@ -13,7 +13,6 @@ document.querySelector('form.userForm').addEventListener('submit', function (e) 
     openWindow()
 });
 
-//capture user last name 
 
 //send user back to homepage 
 
