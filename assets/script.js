@@ -14,21 +14,4 @@ document.querySelector('form.userForm').addEventListener('submit', function (e) 
 });
 
 
-//send user back to homepage 
-
-
-// function secondPage() {
-//     var returnButton = document.getElementById("submitButtonTwo");
-//     returnButton.addEventListener("click", returnFunction);
-
-//     function returnFunction(){
-//         window.close()
-//     }
-//     };
-
-
-
-// firstPage();
-// secondPage();
-
 

@@ -7,12 +7,10 @@
 body{
     background-color: rgb(236, 232, 226);
 }
-form{
+
+section { 
     background-color: rgb(115, 165, 115);
     border: solid tan 5px;
-    padding: 10%;
+    padding: 10px;
 }
 
-div {
-    padding-top: 5%;
-}
